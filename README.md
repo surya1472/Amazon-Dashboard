@@ -39,7 +39,7 @@ Display of essential performance indicators like total quantity, revenue, catego
 ## 📊 Amazon Sales Dashboard
 
 An interactive Tableau dashboard visualizing Amazon India sales by week, category, region, order status, and more.
-![Dashboard Preview](https://github.com/surya1472/Amazon-Dashboard/blob/main/Amazon%20Dashboard%20image.png)
+![Dashboard Preview](https://github.com/thesurya46/Amazon-Dashboard/blob/main/Amazon%20Dashboard%20Image.png)
 
 ## 📁 Amazon-Sales-Dashboard
 
